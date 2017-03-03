@@ -4,3 +4,7 @@
 
 ### Activiti工作流
 1. 学习LemonOA
+
+极客学院-Android
+http://wiki.jikexueyuan.com/list/android/
+深入了解java泛型

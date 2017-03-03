@@ -10,3 +10,5 @@ https://github.com/xuyisheng/AndroidHeros
 http://blog.csdn.net/eclipsexys
 查看Android源码的网站
 http://androidxref.com/
+极客学院-Android
+http://wiki.jikexueyuan.com/list/android/
