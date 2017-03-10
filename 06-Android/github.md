@@ -1,0 +1,23 @@
+https://github.com/Rukey7/MvpApp
+### 洪洋推荐的7个项目
+
+仿网易云音乐客户端
+https://github.com/aa112901/remusic
+仿全民TV
+https://github.com/MichaelHuyp/Bilibili_Wuxianda
+简阅客户端
+https://github.com/chentao0707/SimplifyReader
+豆芽客户端
+https://github.com/DreaminginCodeZH/Douya
+即时通讯：嗨豹
+https://github.com/sealtalk/sealtalk-android
+洛克商城
+https://github.com/Shuyun123/LKShop
+oschina官方客户端
+http://git.oschina.net/oschina/android-app
+Daily
+https://github.com/spring2613/Daily
+Android-Pay
+https://github.com/mayubao/Android-Pay/
+AndroidUtilCode
+https://github.com/Blankj/AndroidUtilCode

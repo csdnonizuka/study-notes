@@ -32,3 +32,8 @@ https://github.com/bumptech/glide
 https://github.com/square/picasso
 compile 'com.squareup.picasso:picasso:2.5.2'
 Retrofit
+
+Android-Pay
+https://github.com/mayubao/Android-Pay/
+AndroidUtilCode
+https://github.com/Blankj/AndroidUtilCode
