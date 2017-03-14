@@ -32,6 +32,8 @@ git checkout version1.0
 9.合并分支
 git checkout master
 git merge version1.0   #将version1.0的修改合并到master上。(这里需要自己去解决冲突。解决完冲突后才可以commit)
+直接获取某一个分支。GB32960为分支名，后面为远程地址。
+git clone -b GB32960 git@192.168.30.46:QTB01/TBoxIntegratedServiceLibs.git
 
 
 ## 与远程版本库协作
