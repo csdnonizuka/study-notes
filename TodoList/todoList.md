@@ -22,5 +22,18 @@ Zygote通信
 4. 官方示例1-todo-mvp - github
 5. dev-todo-mvp-rxjava - github
 
+
 Java四大名著下载大全（中文+英文）
 http://www.blogjava.net/kuuyee/archive/2013/06/03/400084.html
+
+每个程序员都该阅读的十本编程书籍
+1. 代码大全
+2. 大话设计模式
+3. 重构改善既有代码的设计
+4. 软件开发者路线图
+5. 搞定：无压工作的艺术
+6. 操作系统概念
+7. Google运维解密
+8. 算法帝国
+9. 不敢止步： 一个软件工匠的12年
+10. 一路编程

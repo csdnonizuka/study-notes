@@ -1,3 +1,6 @@
+OuNews 简单的新闻客户端
+https://github.com/oubowu/OuNews
+练习MVP架构开发的App
 https://github.com/Rukey7/MvpApp
 ### 洪洋推荐的7个项目
 
@@ -17,7 +20,3 @@ oschina官方客户端
 http://git.oschina.net/oschina/android-app
 Daily
 https://github.com/spring2613/Daily
-Android-Pay
-https://github.com/mayubao/Android-Pay/
-AndroidUtilCode
-https://github.com/Blankj/AndroidUtilCode
