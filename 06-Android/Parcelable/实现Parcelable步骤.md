@@ -1,4 +1,4 @@
-Android中Parcelable接口用法
+                    Android中Parcelable接口用法
 http://www.cnblogs.com/renqingping/archive/2012/10/25/Parcelable.html
 
 实现Parcelable步骤

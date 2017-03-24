@@ -4,3 +4,5 @@ Android面试题集
 http://blog.csdn.net/dd864140130/article/details/57408502
 Android6.0权限封装
 http://blog.csdn.net/u014005316/article/details/60466047
+一个2年安卓开发者的一些忠告
+http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/1006/6659.html
