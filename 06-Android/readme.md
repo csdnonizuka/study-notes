@@ -27,5 +27,3 @@ https://github.com/Trinea/android-open-project
 
 http://www.androiddevtools.cn
 http://www.jcodecraeer.com/
-高仿知乎日报首页
-https://github.com/cdwgithub/ZhihuTopNews

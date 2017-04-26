@@ -1,7 +1,14 @@
+MVP框架
 OuNews 简单的新闻客户端
-https://github.com/oubowu/OuNews
+PBF https://github.com/oubowu/OuNews
 练习MVP架构开发的App
-https://github.com/Rukey7/MvpApp
+乱  https://github.com/Rukey7/MvpApp
+Daily
+PBL https://github.com/spring2613/Daily
+MaterialNews-Mvp
+PBL https://github.com/hyr0318/MaterialNews-Mvp
+高仿知乎日报首页
+PBL https://github.com/cdwgithub/ZhihuTopNews
 ### 洪洋推荐的7个项目
 
 仿网易云音乐客户端
@@ -18,5 +25,5 @@ https://github.com/sealtalk/sealtalk-android
 https://github.com/Shuyun123/LKShop
 oschina官方客户端
 http://git.oschina.net/oschina/android-app
-Daily
-https://github.com/spring2613/Daily
+###### ---------------------------------------------------
+https://github.com/JessYanCoding/MVPArms
