@@ -19,7 +19,8 @@ https://developer.android.google.cn/studio/index.html
 genymotion虚拟机下载
 https://www.genymotion.com/
 这个需要先注册，下载带VisualBox版本的。
-
+安装Genymotion for Android Studio插件
+Setting->Plugins->Browse repositories...
 Android开发之旅：书籍、教程、工具和各种干货！
 http://www.androidchina.net/584.html
 Android 开源项目分类汇总
