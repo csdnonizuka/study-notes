@@ -1,0 +1,10 @@
+### Binder说明
+Binder是Android中的一个类，它实现了IBinder接口。
+从IPC角度来说，Binder是Android中的一种跨进程通信方式，Bindeer还可以理解为一种虚拟的物理设备，
+它的设备驱动是/dev/Binder，该通信方式在Linux中没有。
+从Android Framework角度来说Binder是ServiecManager连接各种
+Manager（ActivityManager，WindowManager,等等）和相应ManagerService的桥梁。
+从Android应用层来说，Binder是客户端和服务端进行通信的媒介，当bindService的时候，
+服务端会返回一个包含了服务端业务调用的Binder对象，公国这个Binder对象，
+客户端就可以获取服务端提供的服务或者数据，这里的服务包括普通服务和基于AIDL的服务。
+Binder两个很重要的方法linkToDeath和unlinkToDeath。
